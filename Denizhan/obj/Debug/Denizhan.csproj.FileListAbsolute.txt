@@ -1,0 +1,17 @@
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\bin\Debug\Denizhan.exe.config
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\bin\Debug\Denizhan.exe
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\bin\Debug\Denizhan.pdb
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\bin\Debug\EntityFramework.dll
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\bin\Debug\System.Data.SQLite.dll
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\bin\Debug\EntityFramework.xml
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\bin\Debug\System.Data.SQLite.xml
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\obj\Debug\Denizhan.csprojResolveAssemblyReference.cache
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\obj\Debug\Denizhan.Form1.resources
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\obj\Debug\Denizhan.Properties.Resources.resources
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\obj\Debug\Denizhan.csproj.GenerateResource.Cache
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\obj\Debug\Denizhan.exe
+c:\users\buket.bilgic\documents\visual studio 2013\Projects\Denizhan\Denizhan\obj\Debug\Denizhan.pdb
